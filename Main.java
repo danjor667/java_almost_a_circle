@@ -46,7 +46,7 @@ public class Main {
         System.out.println(Rectangle.from_json_string(json_string));
 
 
-        //Square.save_to_file(mylist);
+        //gitSquare.save_to_file(mylist);
 
 
     }
